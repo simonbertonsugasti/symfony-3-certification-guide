@@ -4,6 +4,8 @@ Collections of links based on the topics included in the Symfony 3.0 certificati
 
 More info: https://sensiolabs.com/en/symfony/certification.html
 
+Inspired by the Symfony 2.3 certification guide of [jmolivas] (https://github.com/jmolivas/symfony-certification-guide)
+
 
 #### **PHP**
 * Object Oriented Programming  
@@ -49,7 +51,7 @@ http://symfony.com/doc/3.0/components/http_foundation/introduction.html#setting-
 http://symfony.com/doc/3.0/book/http_cache.html
 * Content negotiation  
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation  
-http://symfony.com/doc/current/components/http_foundation/introduction.html#accessing-accept-headers-data
+http://symfony.com/doc/3.0/components/http_foundation/introduction.html#accessing-accept-headers-data
 * Language detection  
 
 ---
@@ -106,7 +108,7 @@ http://symfony.com/doc/3.0/contributing/code/standards.html
 http://symfony.com/doc/3.0/cookbook/bundles/installation.html
 * Composer packages handling  
 https://getcomposer.org/doc/00-intro.md#introduction  
-http://symfony.com/doc/current/cookbook/composer.html
+http://symfony.com/doc/3.0/cookbook/composer.html
 * Development best practices  
 http://symfony.com/doc/3.0/cookbook/deployment/tools.html
 * Framework overloading  
@@ -147,10 +149,10 @@ http://symfony.com/doc/3.0/components/dependency_injection/compilation.html
 http://symfony.com/doc/3.0/book/routing.html#controller-string-syntax
 * The base Controller class  
 http://symfony.com/doc/3.0/book/controller.html#the-base-controller-class
-* The request
+* The request  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#request  
 http://symfony.com/doc/3.0/book/controller.html#the-request-object
-* The response
+* The response  
 http://symfony.com/doc/3.0/components/http_foundation/introduction.html#response  
 http://symfony.com/doc/3.0/book/controller.html#the-response-object
 * The cookies  
@@ -184,8 +186,8 @@ http://symfony.com/doc/3.0/book/routing.html#routing-with-placeholders
 http://symfony.com/doc/3.0/book/routing.html#required-and-optional-placeholders
 * Generate URL parameters  
 http://symfony.com/doc/3.0/book/routing.html#generating-urls
-* Trigger redirects
-http://symfony.com/doc/current/book/controller.html#redirecting  
+* Trigger redirects  
+http://symfony.com/doc/3.0/book/controller.html#redirecting  
 http://symfony.com/doc/3.0/cookbook/routing/redirect_in_config.html
 * Special internal routing attributes  
 http://symfony.com/doc/3.0/cookbook/routing/extra_information.html
@@ -211,10 +213,10 @@ http://twig.sensiolabs.org/doc/tags/extends.html
 http://twig.sensiolabs.org/doc/templates.html#template-inheritance  
 http://symfony.com/doc/3.0/book/templating.html#template-inheritance-and-layouts
 * Global variables  
-http://symfony.com/doc/current/cookbook/templating/global_variables.html
+http://symfony.com/doc/3.0/cookbook/templating/global_variables.html
 * Filters and functions  
 http://twig.sensiolabs.org/doc/filters/index.html  
-http://symfony.com/doc/current/cookbook/templating/twig_extension.html
+http://symfony.com/doc/3.0/cookbook/templating/twig_extension.html
 * Template includes  
 http://twig.sensiolabs.org/doc/tags/include.html
 * Loops and conditions  
@@ -230,7 +232,7 @@ http://symfony.com/doc/3.0/book/translation.html#translations-in-templates
 * String interpolation  
 http://twig.sensiolabs.org/doc/templates.html#string-interpolation
 * Assets management  
-http://symfony.com/doc/current/best_practices/web-assets.html
+http://symfony.com/doc/3.0/best_practices/web-assets.html
 * Debugging variables  
 http://twig.sensiolabs.org/doc/functions/dump.html
 
@@ -241,7 +243,7 @@ http://twig.sensiolabs.org/doc/functions/dump.html
 http://symfony.com/doc/3.0/book/forms.html#creating-a-simple-form
 * Forms handling  
 http://symfony.com/doc/3.0/book/forms.html#handling-form-submissions  
-http://symfony.com/doc/current/best_practices/forms.html#handling-form-submits
+http://symfony.com/doc/3.0/best_practices/forms.html#handling-form-submits
 * Form types  
 http://symfony.com/doc/3.0/book/forms.html#creating-form-classes  
 http://symfony.com/doc/3.0/book/forms.html#built-in-field-types
@@ -273,7 +275,7 @@ http://symfony.com/doc/3.0/book/validation.html#the-basics-of-validation
 * Built-in validation constraints  
 http://symfony.com/doc/3.0/reference/constraints.html
 * Validation scopes  
-http://symfony.com/doc/current/cookbook/validation/custom_constraint.html#class-constraint-validator
+http://symfony.com/doc/3.0/cookbook/validation/custom_constraint.html#class-constraint-validator
 * Validation groups  
 http://symfony.com/doc/3.0/book/validation.html#validation-groups
 * Group sequence  
@@ -283,6 +285,7 @@ http://symfony.com/doc/3.0/cookbook/validation/custom_constraint.html
 http://symfony.com/doc/3.0/reference/constraints/Callback.html  
 https://knpuniversity.com/screencast/question-answer-day/custom-validation-property-path
 * Violations builder  
+http://symfony.com/doc/3.0/cookbook/validation/custom_constraint.html#creating-the-validator-itself
 
 ---
 
@@ -425,7 +428,3 @@ http://symfony.com/doc/3.0/reference/configuration/web_profiler.html
 * Internationalization and localization  
 http://symfony.com/doc/3.0/best_practices/i18n.html
 
-
-
-
-Inspired by the Symfony 2.3 certification guide of [jmolivas] (https://github.com/jmolivas/symfony-certification-guide)
