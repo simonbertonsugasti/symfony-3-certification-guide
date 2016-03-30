@@ -318,9 +318,11 @@ http://symfony.com/doc/3.0/components/dependency_injection/autowiring.html
 * Authentication  
 http://symfony.com/doc/3.0/components/security/authentication.html  
 http://symfony.com/doc/3.0/book/security.html#how-security-works-authentication-and-authorization
+http://symfony.com/doc/3.0/cookbook/security/index.html#authentication-identifying-logging-in-the-user
 * Authorization  
 http://symfony.com/doc/3.0/components/security/authorization.html  
 http://symfony.com/doc/3.0/book/security.html#authorization
+http://symfony.com/doc/3.0/cookbook/security/index.html#authorization-denying-access
 * Configuration  
 http://symfony.com/doc/3.0/reference/configuration/security.html
 * Providers  
