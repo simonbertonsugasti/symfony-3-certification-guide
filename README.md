@@ -404,6 +404,7 @@ http://symfony.com/doc/3.0/cookbook/testing/profiling.html
 http://symfony.com/doc/3.0/book/testing.html#accessing-internal-objects  
 http://symfony.com/doc/3.0/book/testing.html#accessing-the-container
 * Client configuration  
+http://symfony.com/doc/3.0/book/testing.html#testing-configuration
 * Request and response objects introspection  
 http://symfony.com/doc/3.0/book/testing.html#accessing-internal-objects
 * PHPUnit bridge  
