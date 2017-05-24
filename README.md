@@ -423,6 +423,8 @@ http://symfony.com/doc/3.0/cookbook/debugging.html
 http://symfony.com/doc/3.0/cookbook/deployment/tools.html
 * Process  
 http://symfony.com/doc/3.0/components/process.html
+* Serializer  
+http://symfony.com/doc/3.0/serializer.html
 * Data collectors  
 http://symfony.com/doc/3.0/cookbook/profiler/data_collector.html
 * Web Profiler and Web Debug Toolbar  
