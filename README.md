@@ -424,12 +424,14 @@ http://symfony.com/doc/3.0/cookbook/deployment/tools.html
 * Process  
 http://symfony.com/doc/3.0/components/process.html
 * Serializer  
-http://symfony.com/doc/3.0/serializer.html
+http://symfony.com/doc/3.0/serializer.html  
+http://symfony.com/doc/3.0/components/serializer.html
 * Data collectors  
 http://symfony.com/doc/3.0/cookbook/profiler/data_collector.html
 * Web Profiler and Web Debug Toolbar  
 http://symfony.com/blog/new-in-symfony-2-8-redesigned-web-debug-toolbar  
 http://symfony.com/doc/3.0/reference/configuration/web_profiler.html
 * Internationalization and localization  
+http://symfony.com/doc/3.0/translation.html  
 http://symfony.com/doc/3.0/best_practices/i18n.html
 
