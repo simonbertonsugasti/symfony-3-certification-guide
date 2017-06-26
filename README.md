@@ -369,22 +369,23 @@ http://symfony.com/doc/3.0/book/http_cache.html#using-edge-side-includes
 * Built-in commands  
 http://symfony.com/doc/3.0/components/console/usage.html#built-in-commands
 * Custom commands  
-http://symfony.com/doc/3.0/components/console/introduction.html#creating-a-basic-command  
-http://symfony.com/doc/3.0/cookbook/console/console_command.html
+http://symfony.com/doc/3.0/components/console.html#creating-a-console-application
+http://symfony.com/doc/3.0/console.html
 * Configuration  
-http://symfony.com/doc/3.0/components/console/introduction.html#creating-a-basic-command
+http://symfony.com/doc/3.0/console.html#configuring-the-command
 * Options and arguments  
-http://symfony.com/doc/3.0/components/console/introduction.html#using-command-options  
-http://symfony.com/doc/3.0/components/console/introduction.html#using-command-arguments  
+http://symfony.com/doc/3.0/console/input.html#using-command-arguments
+http://symfony.com/doc/3.0/console/input.html#using-command-options
 http://symfony.com/doc/3.0/components/console/console_arguments.html
 * Input and Output objects  
-http://symfony.com/doc/3.0/components/console/introduction.html#creating-a-basic-command
+http://symfony.com/doc/3.0/console.html#console-input
+http://symfony.com/doc/3.0/console.html#executing-the-command
 * Built-in helpers  
 http://symfony.com/doc/3.0/components/console/helpers/index.html
 * Console events  
 http://symfony.com/doc/3.0/components/console/events.html
 * Verbosity levels  
-http://symfony.com/doc/3.0/components/console/introduction.html#verbosity-levels
+http://symfony.com/doc/3.0/console/verbosity.html
 
 ---
 
